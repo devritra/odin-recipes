@@ -8,3 +8,8 @@ body{
     margin: 20px auto;
     background-color: rgb(255, 245, 155);
 }
+h1{
+    height: 60px;
+    text-align: center;
+    padding-top: 8px;
+}
