@@ -11,10 +11,18 @@ body{
 }
 h1{
     text-align: center;
+    height: 64px;
+    width: auto;
+    padding: 16px 24px;
 }
 ul{
     text-align: center;
     list-style-type: none;
+}
+li{
+    height: 24px;
+    width: 200px;
+    margin: 3px auto;
 }
 a{
     text-decoration: none;
