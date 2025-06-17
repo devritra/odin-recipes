@@ -1,2 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 
-
+body{
+    width: 800px;
+    background-color: rgb(255, 196, 0);
+    margin: 20px auto;
+}
+h1{
+    text-align: center;
+}
