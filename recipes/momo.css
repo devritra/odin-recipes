@@ -13,3 +13,9 @@ h1{
     text-align: center;
     padding-top: 8px;
 }
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 50px auto;
+}
