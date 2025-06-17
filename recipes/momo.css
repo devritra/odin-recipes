@@ -35,3 +35,9 @@ a{
     width: 150px;
     border-radius: 5px;
 }
+.content-headings{
+    height: 60px;
+    width: auto;
+    text-align: left;
+    padding: 8px 16px;
+}
