@@ -18,6 +18,7 @@ img{
     height: auto;
     display: block;
     margin: 50px auto;
+    border-radius: 10px;
 }
 .button-container{
     height: 40px;
