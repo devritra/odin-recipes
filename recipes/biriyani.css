@@ -3,3 +3,8 @@
     margin: 0px;
     box-sizing: border-box;
 }
+body{
+    width: 900px;
+    margin: 20px auto;
+    background-color: rgb(255, 245, 155);
+}
