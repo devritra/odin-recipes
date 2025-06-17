@@ -41,3 +41,12 @@ a{
     text-align: left;
     padding: 8px 16px;
 }
+.content{
+    height: auto;
+    width: auto;
+    padding: 8px 16px;
+    text-align: justify;
+}
+li{
+    margin-bottom: 6px;
+}
